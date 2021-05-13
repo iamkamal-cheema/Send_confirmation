@@ -1,1 +1,2 @@
 # Send_confirmation
+User go to a folder in hard drive, look for folder with current date, for each of the excel files name matching “date-caseid-amount” example 20210316-xyz123-300.xlsx; open the file, convert the “customer copy” worksheet to pdf, pick up the customer email from the file and send out the email using outlook with pdf as an attachment. Repeat the steps for all the files processed today.
